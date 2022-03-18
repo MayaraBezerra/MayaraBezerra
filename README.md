@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mayara 🌈</h1> 
 
 <p align="center">
-  Front-End Developer < <a href="https://www.laboratoria.la/"> Laboratoria </a> > <br>
+  Front-End Developer 
 </p>
 <div align="center">
   <a href="https://github.com/mayarabezerra">
