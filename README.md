@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **JavaScript, HTML, CSS, ReactJS, Jest, Typescript**
 
-- 👩🏻‍💻 No momento estou aprendendo **Angular**
+- 👩🏻‍💻 No momento estou aprendendo **Flutter**
 
 
 ## 
