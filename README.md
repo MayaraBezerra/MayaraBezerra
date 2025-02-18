@@ -1,7 +1,6 @@
 
 <h1 align="left">Hi, I'm Mayara 🌈</h1>
 
-- 🖥️ Desenvolvedora Front-End 
 
 - 🔭 Graduanda em Análise e Desenvolvimento de Sistemas
 
@@ -9,7 +8,6 @@
 
 - 💬 Me pergunte sobre **JavaScript, HTML, CSS, ReactJS, Jest, Typescript**
 
-- 👩🏻‍💻 No momento estou aprendendo **Flutter**
 
 
 ## 
